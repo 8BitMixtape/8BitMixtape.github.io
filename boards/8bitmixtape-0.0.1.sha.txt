@@ -1,0 +1,6 @@
+commit 12a329b81978ca1a4bdc8a8d0eb9fb161c8ea761
+Author: Budi Prakosa <iyok@deadmediafm.org>
+Date:   Sun Feb 26 14:13:31 2017 +0700
+
+    change board and add hex2wav
+e179673f4c8374f882edbca85f03bd3c26e68712e9eaeb11d519dc58f0d18680

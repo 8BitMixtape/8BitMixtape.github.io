@@ -1,0 +1,38 @@
+		{
+  "packages": [{
+    "name": "8BitMixtape",
+    "maintainer": "8BitMixtape",
+    "websiteURL": "https://github.com/8BitMixtape/",
+    "email": "iyok@deadmediafm.org",
+    "help": {
+      "online": "https://github.com/8BitMixtape/"
+    },
+    "platforms": [
+        		      {
+        "name" : "8BitMixtape",
+        "architecture" : "avr",
+        "version" : "0.0.1",
+        "category" : "contributed",
+        "url" : "http://8BitMixtape.github.io//boards/8bitmixtape-0.0.1.tar.gz",
+        "archiveFileName" : "8bitmixtape-0.0.1.tar.gz",
+        "checksum" : "SHA-256:e179673f4c8374f882edbca85f03bd3c26e68712e9eaeb11d519dc58f0d18680",
+        "size" : "",
+        "help" : {
+          "online" : "https://github.com/8BitMixtape/"
+        },
+        "boards" : [
+          					
+					{
+						"name" : "8BitMixtape"
+					}
+        ],
+        "toolsDependencies" : [
+          
+        ]
+      }
+		
+    ],
+    "tools": []
+  }]
+}
+		
