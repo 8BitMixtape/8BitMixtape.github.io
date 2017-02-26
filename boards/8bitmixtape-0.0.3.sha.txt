@@ -1,0 +1,6 @@
+commit 4fbbfa5cc2b64a88fde781930026629a04f89045
+Author: xcorex <xcorex@MANTICORE.local>
+Date:   Sun Feb 26 16:05:08 2017 +0700
+
+    fix clock
+e1533933671d736a325097f9f98d1bf8628640c8062fdfafe8dbe5842d2f61bd
