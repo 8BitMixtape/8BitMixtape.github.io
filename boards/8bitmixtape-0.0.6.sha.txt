@@ -1,0 +1,6 @@
+commit 13cd41693f79b76f3f65953cdee0d9a067fc7b8d
+Author: Budi Prakosa <iyok@deadmediafm.org>
+Date:   Mon Feb 27 08:52:31 2017 +0700
+
+    add core from spence
+0d14cdc051c90f16d42cb1a0cca4a1841d9d8006f65725c4e643e5bbcc84f599
