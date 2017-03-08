@@ -1,0 +1,6 @@
+commit 17928c94849eef4d679f6b3d1558c69aa2625978
+Author: Budi Prakosa <iyok@deadmediafm.org>
+Date:   Wed Mar 8 11:55:00 2017 +0700
+
+    initial hex2wav linux
+acec926fc5f06e8aa5db08a4b138955c5d4c5472105d86b81dca10113ee7c2a6
