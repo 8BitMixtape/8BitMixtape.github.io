@@ -1,0 +1,6 @@
+commit e2451bc1c4e7b7d0ac66dbda8b4f74954fde62ff
+Author: Budi Prakosa <iyok@deadmediafm.org>
+Date:   Sun Apr 16 12:58:26 2017 +0530
+
+    now burn bootloader bug really fixed
+8bdca49b026dcbcdc34050262a16880cafcebaec256f7c4f1190eec50946e5ba
