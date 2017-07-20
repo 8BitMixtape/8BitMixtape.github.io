@@ -294,6 +294,28 @@
           
         ]
       }
+		,		      {
+        "name" : "8BitMixtape",
+        "architecture" : "avr",
+        "version" : "0.0.14",
+        "category" : "contributed",
+        "url" : "http://8BitMixtape.github.io//boards/8bitmixtape-0.0.14.tar.gz",
+        "archiveFileName" : "8bitmixtape-0.0.14.tar.gz",
+        "checksum" : "SHA-256:e9bd0614812fa5ed5ad6a8e041d1a703eab434b7c51ec711a14c07ac90803d29",
+        "size" : "",
+        "help" : {
+          "online" : "https://github.com/8BitMixtape/"
+        },
+        "boards" : [
+          					
+					{
+						"name" : "8BitMixtape"
+					}
+        ],
+        "toolsDependencies" : [
+          
+        ]
+      }
 		
     ],
     "tools": []
