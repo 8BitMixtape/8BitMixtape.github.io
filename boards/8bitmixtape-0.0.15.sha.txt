@@ -1,0 +1,6 @@
+commit 5842d8526ffc08d9ddd9876237649dd8422ba04c
+Author: xcorex <xcorex@MANTICORE.local>
+Date:   Sun Jul 23 10:11:10 2017 +0700
+
+    re add adafruit
+0741b0bbe926e2cd488d0c14239a3591b05654f16aaab50aaf5764b4e4ccbf75
