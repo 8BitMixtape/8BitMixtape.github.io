@@ -1,0 +1,6 @@
+commit bdabb0682ccfd820143235993a4e6b433727bd41
+Author: xcorex <xcorex@MANTICORE.local>
+Date:   Sun Jul 23 15:22:30 2017 +0700
+
+    fix rtaudio issue on linux 64
+fd4417169189d7570e646b745e78a69d85ca5df9fa07bda37293633a6519cbd0
