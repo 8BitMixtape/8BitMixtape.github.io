@@ -1,6 +1,0 @@
-commit 7242df9f01a6e40a8a7f3a89fe505d0fb8fffa3a
-Author: Budi Prakosa <iyok@deadmediafm.org>
-Date:   Sun Jul 23 16:59:46 2017 +0700
-
-    compiled with x64 x32
-d625451c7a53def22fa5f31f326cf0f76a522d5375ffd31ffb648a42c615b112

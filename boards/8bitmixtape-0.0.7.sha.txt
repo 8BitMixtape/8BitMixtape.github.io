@@ -1,6 +1,0 @@
-commit 53c5b2627c11ece9e2b0f54cfbe9435a68bb20c8
-Author: Budi Prakosa <iyok@deadmediafm.org>
-Date:   Mon Feb 27 09:05:20 2017 +0700
-
-    fix upload max
-c591b97b6d34f9f84b65813e20f57feb7898ed8baefe0fe6a903118e26ffd8d5

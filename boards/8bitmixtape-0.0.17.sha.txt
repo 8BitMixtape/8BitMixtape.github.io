@@ -1,6 +1,0 @@
-commit 691f428cf649ffb72c147203044e4fb6c9e78f84
-Author: Budi Prakosa <iyok@deadmediafm.org>
-Date:   Sun Jul 23 16:07:31 2017 +0700
-
-    fix wrong hex2wav
-a254f6b59488452ee1290afeacb46156e65ae850d29d26b4f5660830593ed5d6

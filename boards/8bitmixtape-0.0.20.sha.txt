@@ -1,6 +1,0 @@
-commit 67b5af00e365b92ddb570b836770fde5092b3e24
-Author: Budi Prakosa <iyok@deadmediafm.org>
-Date:   Sun Jul 23 17:22:47 2017 +0700
-
-    universal hex2wav
-12d9336ddc1c40f7e96b58bd97387d06c0d167b30b79dfb6a22c4bebb98a0daf

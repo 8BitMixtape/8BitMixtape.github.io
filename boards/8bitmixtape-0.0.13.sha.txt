@@ -1,6 +1,0 @@
-commit 4f6885c1a9e299613132cd8dacb94cf264f15b59
-Author: Budi Prakosa <iyok@deadmediafm.org>
-Date:   Tue Jul 18 10:14:58 2017 +0700
-
-    update neo lib
-a28f1527332b47d605964b6ed4ac9651ef5eaa6d6fe2e6d3d3c2ef136c371ef7
