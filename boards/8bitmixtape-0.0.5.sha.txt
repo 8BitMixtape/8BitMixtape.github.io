@@ -1,0 +1,6 @@
+commit 0ac204443b5582579c19fd17d6d19d605082ec00
+Author: xcorex <xcorex@MANTICORE.local>
+Date:   Sun Feb 26 21:51:46 2017 +0700
+
+    save wav to sketch folder
+0dab71c0580215ca5f66d63578d5a05dee213f810399df88c5564d1bc9f056e3

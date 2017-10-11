@@ -1,0 +1,6 @@
+commit c7cb52443afa881cc44b79c8c5da0798caec41f9
+Author: Budi Prakosa <iyok@deadmediafm.org>
+Date:   Sun Jul 23 16:34:25 2017 +0700
+
+    hex2wav pulse asound fix
+21b70ea45e5550b3d0005eecaade95c3b38362f7f13326568a64e83ba0f7bdfc

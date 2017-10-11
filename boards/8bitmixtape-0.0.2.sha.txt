@@ -1,0 +1,6 @@
+commit 9a16abd11ed017bfe7a43bd33b0efc8eb91d06f4
+Author: xcorex <xcorex@MANTICORE.local>
+Date:   Sun Feb 26 15:34:29 2017 +0700
+
+    bug fix for linux
+8a840fe4a93e4403ed6ea139a4bea813b34123af0429223f9415508844b6b695

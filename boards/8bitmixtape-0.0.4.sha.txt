@@ -1,0 +1,6 @@
+commit a12add127720bc6a9126ec7624c80b988fef6086
+Author: xcorex <xcorex@MANTICORE.local>
+Date:   Sun Feb 26 21:09:52 2017 +0700
+
+    add spacing word
+83fda22880f3d675d61d9d2833b74f0eac2c78fbcfbb322aa9201310cbbe1180

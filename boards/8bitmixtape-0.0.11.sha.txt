@@ -1,0 +1,6 @@
+commit 977ddb318146a4ec8c4a3b6b56986ad25c602596
+Author: Budi Prakosa <iyok@deadmediafm.org>
+Date:   Mon Jul 17 18:22:49 2017 +0700
+
+    add NEO Lib for 8bit neo
+93e607cac2aaf480ef4c403bbf9c3ce0ee91e9e0448f1cd554d1c13c8831613e

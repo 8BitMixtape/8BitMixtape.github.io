@@ -13,9 +13,9 @@
         "architecture" : "avr",
         "version" : "0.0.1",
         "category" : "contributed",
-        "url" : "http://neo.manticore.id/package/8bitmixtape-0.0.1.tar.gz",
+        "url" : "http://8BitMixtape.github.io//boards/8bitmixtape-0.0.1.tar.gz",
         "archiveFileName" : "8bitmixtape-0.0.1.tar.gz",
-        "checksum" : "SHA-256:e179673f4c8374f882edbca85f03bd3c26e68712e9eaeb11d519dc58f0d18680",
+        "checksum" : "SHA-256:090c7075daf3d798342843b164508e58fc67ddd25a6d2b93d2910ece4cb02f4e",
         "size" : "",
         "help" : {
           "online" : "https://github.com/8BitMixtape/"
@@ -35,9 +35,9 @@
         "architecture" : "avr",
         "version" : "0.0.2",
         "category" : "contributed",
-        "url" : "http://neo.manticore.id/package/8bitmixtape-0.0.2.tar.gz",
+        "url" : "http://8BitMixtape.github.io//boards/8bitmixtape-0.0.2.tar.gz",
         "archiveFileName" : "8bitmixtape-0.0.2.tar.gz",
-        "checksum" : "SHA-256:19b6b8e1cc6ca9176202abcc009a870e674c97a3643a8cac67315215eb3b40e3",
+        "checksum" : "SHA-256:8a840fe4a93e4403ed6ea139a4bea813b34123af0429223f9415508844b6b695",
         "size" : "",
         "help" : {
           "online" : "https://github.com/8BitMixtape/"
@@ -57,9 +57,9 @@
         "architecture" : "avr",
         "version" : "0.0.3",
         "category" : "contributed",
-        "url" : "http://neo.manticore.id/package/8bitmixtape-0.0.3.tar.gz",
+        "url" : "http://8BitMixtape.github.io//boards/8bitmixtape-0.0.3.tar.gz",
         "archiveFileName" : "8bitmixtape-0.0.3.tar.gz",
-        "checksum" : "SHA-256:e1533933671d736a325097f9f98d1bf8628640c8062fdfafe8dbe5842d2f61bd",
+        "checksum" : "SHA-256:6d5f9a013dfe5129fcb15dabc36917b15950b9a08d7b59728c21bfffccf9c76c",
         "size" : "",
         "help" : {
           "online" : "https://github.com/8BitMixtape/"
@@ -79,9 +79,9 @@
         "architecture" : "avr",
         "version" : "0.0.4",
         "category" : "contributed",
-        "url" : "http://neo.manticore.id/package/8bitmixtape-0.0.4.tar.gz",
+        "url" : "http://8BitMixtape.github.io//boards/8bitmixtape-0.0.4.tar.gz",
         "archiveFileName" : "8bitmixtape-0.0.4.tar.gz",
-        "checksum" : "SHA-256:713ae257592f5e141fb98d1403311289e7a08f40139e0eb61c9f63c99a321d92",
+        "checksum" : "SHA-256:83fda22880f3d675d61d9d2833b74f0eac2c78fbcfbb322aa9201310cbbe1180",
         "size" : "",
         "help" : {
           "online" : "https://github.com/8BitMixtape/"
@@ -101,9 +101,9 @@
         "architecture" : "avr",
         "version" : "0.0.5",
         "category" : "contributed",
-        "url" : "http://neo.manticore.id/package/8bitmixtape-0.0.5.tar.gz",
+        "url" : "http://8BitMixtape.github.io//boards/8bitmixtape-0.0.5.tar.gz",
         "archiveFileName" : "8bitmixtape-0.0.5.tar.gz",
-        "checksum" : "SHA-256:aa4419e341357bc383a9cc84605e4e0f1b9facbee1f7685837373e2427914d45",
+        "checksum" : "SHA-256:0dab71c0580215ca5f66d63578d5a05dee213f810399df88c5564d1bc9f056e3",
         "size" : "",
         "help" : {
           "online" : "https://github.com/8BitMixtape/"
@@ -123,9 +123,9 @@
         "architecture" : "avr",
         "version" : "0.0.6",
         "category" : "contributed",
-        "url" : "http://neo.manticore.id/package/8bitmixtape-0.0.6.tar.gz",
+        "url" : "http://8BitMixtape.github.io//boards/8bitmixtape-0.0.6.tar.gz",
         "archiveFileName" : "8bitmixtape-0.0.6.tar.gz",
-        "checksum" : "SHA-256:0d14cdc051c90f16d42cb1a0cca4a1841d9d8006f65725c4e643e5bbcc84f599",
+        "checksum" : "SHA-256:a90b0d3eadf7683e349d62dba75eccef37db3a5fe8a499b162fd1e46c95cc170",
         "size" : "",
         "help" : {
           "online" : "https://github.com/8BitMixtape/"
@@ -145,9 +145,9 @@
         "architecture" : "avr",
         "version" : "0.0.7",
         "category" : "contributed",
-        "url" : "http://neo.manticore.id/package/8bitmixtape-0.0.7.tar.gz",
+        "url" : "http://8BitMixtape.github.io//boards/8bitmixtape-0.0.7.tar.gz",
         "archiveFileName" : "8bitmixtape-0.0.7.tar.gz",
-        "checksum" : "SHA-256:c591b97b6d34f9f84b65813e20f57feb7898ed8baefe0fe6a903118e26ffd8d5",
+        "checksum" : "SHA-256:485947426f853e24d302859d5bc2d5c2d8688b123ee941022d390a1b1689d589",
         "size" : "",
         "help" : {
           "online" : "https://github.com/8BitMixtape/"
@@ -167,9 +167,9 @@
         "architecture" : "avr",
         "version" : "0.0.8",
         "category" : "contributed",
-        "url" : "http://neo.manticore.id/package/8bitmixtape-0.0.8.tar.gz",
+        "url" : "http://8BitMixtape.github.io//boards/8bitmixtape-0.0.8.tar.gz",
         "archiveFileName" : "8bitmixtape-0.0.8.tar.gz",
-        "checksum" : "SHA-256:acec926fc5f06e8aa5db08a4b138955c5d4c5472105d86b81dca10113ee7c2a6",
+        "checksum" : "SHA-256:18536caebdf944dc22e26c5f2da73ceb5ee51b4f2b9af26958b48b791f9aa957",
         "size" : "",
         "help" : {
           "online" : "https://github.com/8BitMixtape/"
@@ -189,9 +189,9 @@
         "architecture" : "avr",
         "version" : "0.0.9",
         "category" : "contributed",
-        "url" : "http://neo.manticore.id/package/8bitmixtape-0.0.9.tar.gz",
+        "url" : "http://8BitMixtape.github.io//boards/8bitmixtape-0.0.9.tar.gz",
         "archiveFileName" : "8bitmixtape-0.0.9.tar.gz",
-        "checksum" : "SHA-256:5de0faf55aef55524d9c71cf0ffad4ac3be66d2356bf3cac7eeba7392f0d2aa2",
+        "checksum" : "SHA-256:432c53e495dd000dbff736e98238ed023cb74d1b748ea8d7e6dd51604c16cd7a",
         "size" : "",
         "help" : {
           "online" : "https://github.com/8BitMixtape/"
@@ -211,9 +211,9 @@
         "architecture" : "avr",
         "version" : "0.0.10",
         "category" : "contributed",
-        "url" : "http://neo.manticore.id/package/8bitmixtape-0.0.10.tar.gz",
+        "url" : "http://8BitMixtape.github.io//boards/8bitmixtape-0.0.10.tar.gz",
         "archiveFileName" : "8bitmixtape-0.0.10.tar.gz",
-        "checksum" : "SHA-256:8bdca49b026dcbcdc34050262a16880cafcebaec256f7c4f1190eec50946e5ba",
+        "checksum" : "SHA-256:3e11e0df8bdd175130bbde33ddda44fb6e26ff0e68265f843914f25085c9aebd",
         "size" : "",
         "help" : {
           "online" : "https://github.com/8BitMixtape/"
@@ -233,9 +233,9 @@
         "architecture" : "avr",
         "version" : "0.0.11",
         "category" : "contributed",
-        "url" : "http://neo.manticore.id/package/8bitmixtape-0.0.11.tar.gz",
+        "url" : "http://8BitMixtape.github.io//boards/8bitmixtape-0.0.11.tar.gz",
         "archiveFileName" : "8bitmixtape-0.0.11.tar.gz",
-        "checksum" : "SHA-256:6c4100b4c82d2b83d5912b908ee078a74a6371698f039c5258f3f9cb4fba4f4c",
+        "checksum" : "SHA-256:93e607cac2aaf480ef4c403bbf9c3ce0ee91e9e0448f1cd554d1c13c8831613e",
         "size" : "",
         "help" : {
           "online" : "https://github.com/8BitMixtape/"
@@ -255,9 +255,9 @@
         "architecture" : "avr",
         "version" : "0.0.12",
         "category" : "contributed",
-        "url" : "http://neo.manticore.id/package/8bitmixtape-0.0.12.tar.gz",
+        "url" : "http://8BitMixtape.github.io//boards/8bitmixtape-0.0.12.tar.gz",
         "archiveFileName" : "8bitmixtape-0.0.12.tar.gz",
-        "checksum" : "SHA-256:a4499e81c6aa3bdbebb2151fa8146b8083c9c5ad4d57dd4e2670f04fe0126aed",
+        "checksum" : "SHA-256:12fea89ffd60242dcd9bbc2232a089245dfb125fab551f7a804898e447a07112",
         "size" : "",
         "help" : {
           "online" : "https://github.com/8BitMixtape/"
@@ -277,9 +277,9 @@
         "architecture" : "avr",
         "version" : "0.0.13",
         "category" : "contributed",
-        "url" : "http://neo.manticore.id/package/8bitmixtape-0.0.13.tar.gz",
+        "url" : "http://8BitMixtape.github.io//boards/8bitmixtape-0.0.13.tar.gz",
         "archiveFileName" : "8bitmixtape-0.0.13.tar.gz",
-        "checksum" : "SHA-256:a28f1527332b47d605964b6ed4ac9651ef5eaa6d6fe2e6d3d3c2ef136c371ef7",
+        "checksum" : "SHA-256:b492f9ea8a887f845a42b092e32cc1416d793b69738ed573923574e3667dfce0",
         "size" : "",
         "help" : {
           "online" : "https://github.com/8BitMixtape/"
@@ -299,9 +299,9 @@
         "architecture" : "avr",
         "version" : "0.0.14",
         "category" : "contributed",
-        "url" : "http://neo.manticore.id/package/8bitmixtape-0.0.14.tar.gz",
+        "url" : "http://8BitMixtape.github.io//boards/8bitmixtape-0.0.14.tar.gz",
         "archiveFileName" : "8bitmixtape-0.0.14.tar.gz",
-        "checksum" : "SHA-256:e9bd0614812fa5ed5ad6a8e041d1a703eab434b7c51ec711a14c07ac90803d29",
+        "checksum" : "SHA-256:988c64e72271779616305bbbd155ca2a14b5a48dec188a073d4e264bc371320a",
         "size" : "",
         "help" : {
           "online" : "https://github.com/8BitMixtape/"
@@ -321,9 +321,9 @@
         "architecture" : "avr",
         "version" : "0.0.15",
         "category" : "contributed",
-        "url" : "http://neo.manticore.id/package/8bitmixtape-0.0.15.tar.gz",
+        "url" : "http://8BitMixtape.github.io//boards/8bitmixtape-0.0.15.tar.gz",
         "archiveFileName" : "8bitmixtape-0.0.15.tar.gz",
-        "checksum" : "SHA-256:0741b0bbe926e2cd488d0c14239a3591b05654f16aaab50aaf5764b4e4ccbf75",
+        "checksum" : "SHA-256:a62700590f091c4c25c242146d97388fb8719bc0b2339c5a7f8bd5dca7d33c83",
         "size" : "",
         "help" : {
           "online" : "https://github.com/8BitMixtape/"
@@ -343,9 +343,9 @@
         "architecture" : "avr",
         "version" : "0.0.16",
         "category" : "contributed",
-        "url" : "http://neo.manticore.id/package/8bitmixtape-0.0.16.tar.gz",
+        "url" : "http://8BitMixtape.github.io//boards/8bitmixtape-0.0.16.tar.gz",
         "archiveFileName" : "8bitmixtape-0.0.16.tar.gz",
-        "checksum" : "SHA-256:fd4417169189d7570e646b745e78a69d85ca5df9fa07bda37293633a6519cbd0",
+        "checksum" : "SHA-256:9dd03eeb5824a90f19457c6bd2eea45bebe2f3233ef34b2d3e759ff9aba12948",
         "size" : "",
         "help" : {
           "online" : "https://github.com/8BitMixtape/"
@@ -365,9 +365,9 @@
         "architecture" : "avr",
         "version" : "0.0.17",
         "category" : "contributed",
-        "url" : "http://neo.manticore.id/package/8bitmixtape-0.0.17.tar.gz",
+        "url" : "http://8BitMixtape.github.io//boards/8bitmixtape-0.0.17.tar.gz",
         "archiveFileName" : "8bitmixtape-0.0.17.tar.gz",
-        "checksum" : "SHA-256:a254f6b59488452ee1290afeacb46156e65ae850d29d26b4f5660830593ed5d6",
+        "checksum" : "SHA-256:f1f557620e17e28c1afca0580bed579392c5fa25c47fc7aa1558610bbe0bd245",
         "size" : "",
         "help" : {
           "online" : "https://github.com/8BitMixtape/"
@@ -387,9 +387,9 @@
         "architecture" : "avr",
         "version" : "0.0.18",
         "category" : "contributed",
-        "url" : "http://neo.manticore.id/package/8bitmixtape-0.0.18.tar.gz",
+        "url" : "http://8BitMixtape.github.io//boards/8bitmixtape-0.0.18.tar.gz",
         "archiveFileName" : "8bitmixtape-0.0.18.tar.gz",
-        "checksum" : "SHA-256:3bea5fda196311839fb034c8ae605bd78e8d2a5ab5905f2fe1a0d7b125a7c0ab",
+        "checksum" : "SHA-256:21b70ea45e5550b3d0005eecaade95c3b38362f7f13326568a64e83ba0f7bdfc",
         "size" : "",
         "help" : {
           "online" : "https://github.com/8BitMixtape/"
@@ -409,9 +409,9 @@
         "architecture" : "avr",
         "version" : "0.0.19",
         "category" : "contributed",
-        "url" : "http://neo.manticore.id/package/8bitmixtape-0.0.19.tar.gz",
+        "url" : "http://8BitMixtape.github.io//boards/8bitmixtape-0.0.19.tar.gz",
         "archiveFileName" : "8bitmixtape-0.0.19.tar.gz",
-        "checksum" : "SHA-256:d625451c7a53def22fa5f31f326cf0f76a522d5375ffd31ffb648a42c615b112",
+        "checksum" : "SHA-256:c64a42d884891b385c68314ca13306c08f489f8d5b117043622008f59ad387f9",
         "size" : "",
         "help" : {
           "online" : "https://github.com/8BitMixtape/"
@@ -431,9 +431,31 @@
         "architecture" : "avr",
         "version" : "0.0.20",
         "category" : "contributed",
-        "url" : "http://neo.manticore.id/package/8bitmixtape-0.0.20.tar.gz",
+        "url" : "http://8BitMixtape.github.io//boards/8bitmixtape-0.0.20.tar.gz",
         "archiveFileName" : "8bitmixtape-0.0.20.tar.gz",
-        "checksum" : "SHA-256:12d9336ddc1c40f7e96b58bd97387d06c0d167b30b79dfb6a22c4bebb98a0daf",
+        "checksum" : "SHA-256:4f601d5bb7c9a59481cf7687602bdd7eb4dc687088073d3154e06482d78ad37a",
+        "size" : "",
+        "help" : {
+          "online" : "https://github.com/8BitMixtape/"
+        },
+        "boards" : [
+          					
+					{
+						"name" : "8BitMixtape"
+					}
+        ],
+        "toolsDependencies" : [
+          
+        ]
+      }
+		,		      {
+        "name" : "8BitMixtape",
+        "architecture" : "avr",
+        "version" : "0.0.21",
+        "category" : "contributed",
+        "url" : "http://8BitMixtape.github.io//boards/8bitmixtape-0.0.21.tar.gz",
+        "archiveFileName" : "8bitmixtape-0.0.21.tar.gz",
+        "checksum" : "SHA-256:cc284a8729b5f8ee00767e3305b839095af0255b3da33b4251b1ff2d754135a6",
         "size" : "",
         "help" : {
           "online" : "https://github.com/8BitMixtape/"

@@ -1,0 +1,8 @@
+commit f00b9409e9347a43bcbc9d3dc58bc226a3c13350
+Author: Budi Prakosa <iyok@deadmediafm.org>
+Date:   Sat Apr 15 11:34:55 2017 +0530
+
+    fix burn bootloader sequence
+    
+    https://github.com/8BitMixtape/8Bit-Mixtape-NEO/wiki/4_5-Testing-the-prototypes
+432c53e495dd000dbff736e98238ed023cb74d1b748ea8d7e6dd51604c16cd7a
