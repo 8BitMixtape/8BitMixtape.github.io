@@ -1,0 +1,6 @@
+commit b3feb50bc3885b529ee44ab408b70f5c7483f836
+Author: Budi Prakosa <iyok@deadmediafm.org>
+Date:   Tue Jan 30 12:05:25 2018 +0700
+
+    new hex2wav zip output feature
+81fcb7219be2ce9b9100dc771a1aeafa0d43f82eff575074261d3ad2c3df52e8
