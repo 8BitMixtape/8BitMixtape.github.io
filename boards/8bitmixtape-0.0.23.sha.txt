@@ -1,0 +1,6 @@
+commit c9ac77a905c599dcc1925d0a4d43220a2b5e0cee
+Author: Budi Prakosa <iyok@deadmediafm.org>
+Date:   Tue Jan 30 18:17:41 2018 +0700
+
+    fix hex2wav relative path to zip on windows
+4723f937d76236593d40e6f9e16794d0c2176368e147fcf1999cba4956802b4e
