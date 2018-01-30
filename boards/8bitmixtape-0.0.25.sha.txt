@@ -1,0 +1,6 @@
+commit d0f7aceb0bbc1886b6f276077509a3ee5cd2231d
+Author: Budi Prakosa <iyok@deadmediafm.org>
+Date:   Tue Jan 30 18:36:46 2018 +0700
+
+    fix mac linux binary zip out parameter
+0d6ce4fdf5fc20dc61b361578e1a3b5077c28625337f2cbb831e00e48e0ad6c6
